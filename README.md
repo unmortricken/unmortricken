@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**mortyary/mortyary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://i.ibb.co/nsphWv9w/image-removebg-preview.png" alt="welcome">
+<p align="center">
+aivan ㅤ/ ㅤadriel  ㅤ16yo ㅤhe ㅤhim </p>
+<p align="center">
+usually offtab ㅤ𓈒 ㅤwhisp2int </p>
+<p align="center">
+darkshipper ㅤ& ㅤcomshipper </p>
+<p align="center">
+block me if you're uncomfortable with that. </p>
